@@ -3,3 +3,6 @@ It was releseaed to the public October 7, 2019. It is the first macOS to only su
 
 Windows 10: Windows 10 is a operating system created by Microsoft. It is the successor to Windows 8.
 Windows 10 will be constantly upgraded on a continuing basis for free.
+
+Windows XP: Windows XP is an operating system created by Microsoft. It was released for sale October 25, 2001.
+It as the first consumer version of Windows which was not based on MS-DOS.
