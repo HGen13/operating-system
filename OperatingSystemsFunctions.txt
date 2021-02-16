@@ -1,0 +1,2 @@
+macOS Catalina: macOS Catalina is the 16th realease of an operating system from Apple.
+It was releseaed to the public October 7, 2019. It is the first macOS to only support 64-bit applications.
